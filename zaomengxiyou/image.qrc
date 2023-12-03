@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/roleselect.png</file>
+        <file>image/stage1.png</file>
+        <file>image/stage2.png</file>
+        <file>image/start.PNG</file>
+        <file>image/first_boss.png</file>
+        <file>image/first_monster.png</file>
+        <file>image/second_monster.png</file>
+        <file>image/tang_attack.png</file>
+        <file>image/tang_skill.png</file>
+        <file>image/monksha.png</file>
+        <file>image/monktang.png</file>
+    </qresource>
+</RCC>
